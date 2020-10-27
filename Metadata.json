@@ -1,0 +1,20 @@
+{
+    "Author": "Basty_ss",
+    "ContentSize": 289,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/list-all-azure-vnets-and-address-spaces/master/Azure_VNETs.ps1",
+    "DownloadCount": 2242,
+    "Id": "List-all-Azure-VNETs-and-4f1b65f3",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 54,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-1-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "A simple Azure PowerShell script to list all Azure ARM VNETs and address spaceses in all Subscriptions.Requires to be already logged in via Azure PowerShell.Requires Azure PowerShell module to be installed.Additional parameters can be added if needed. e.g. LocationExample:Sub1 VN",
+    "Title": "List all Azure VNETs and address spaces",
+    "UpdatedDate": "2018-1-3T00:00:00",
+    "Url": "https://github.com/azureautomation/list-all-azure-vnets-and-address-spaces",
+    "UserTags": "Microsoft Azure, azure vnet"
+}
